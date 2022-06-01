@@ -1,5 +1,6 @@
 #include <iostream>
 //Dannaya progg uchebnaya
+//SadovnikovMurzin KE-317 2022
 using namespace std;
 
 int main()
