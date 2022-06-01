@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    int x, y, s, r;
+    int x, y, s, r, p;
 
     cout << "Enter X: "; cin >> x;
     cout << "Enter Y: "; cin >> y;
@@ -16,5 +16,7 @@ int main()
     r=x-y;
     cout << "Raznost'="; cout << r;
 
+    p=x*y;
+    cout << "Proizvedenie="; cout << p;
     return 0;
 }
