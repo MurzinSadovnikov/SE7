@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Dannaya progg uchebnaya
 using namespace std;
 
 int main()
